@@ -19,17 +19,3 @@ This project requires **Python** and the following Python libraries installed:
 - [sklearn](https://pypi.org/project/sklearn2/)
 
 ```
-
-<a id="p3"></a> 
-# Usage:
-
-The program will creat a window to display the scene capture by webcamera and a window representing the probabilities of detected emotions.
-
-<a id="p4"></a> 
-
-# Ongoing 
-Draw emotions faces next to the detected face.
-
-
-If you like this work please help me by giving me some stars.
-
