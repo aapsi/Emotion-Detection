@@ -1,10 +1,7 @@
-# Emotion-Detection
-Facial emotion detection using deep learning
-
 # Project Name : Emotion-recognition
 
 # Description:
-
+Facial emotion detection using deep learning
 Our Human face is having a mixed emotions so we are to demonstrate the probabilities of these emotions that we have.
 
 ## What does Emotion Recognition mean?
